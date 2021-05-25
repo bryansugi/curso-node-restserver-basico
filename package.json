@@ -19,6 +19,7 @@
         "express-validator": "^6.11.1",
         "google-auth-library": "^7.0.4",
         "jsonwebtoken": "^8.5.1",
-        "mongoose": "^5.12.10"
+        "mongoose": "^5.12.10",
+        "populate": "^5.0.1"
     }
 }
